@@ -220,7 +220,11 @@
             </div>
         </div>
     </div>
-
+<script>
+    if('serviceWorker' in navigator){
+        navigator.serviceWorker.register('worker.js')
+    }
+</script>
     <script src="lesson.js"></script>
     <script>
         var webstore = new Vue({
