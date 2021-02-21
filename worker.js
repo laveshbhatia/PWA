@@ -9,7 +9,6 @@ var cacheFiles = [
     'images/chemistry.jpg',
     'images/english.jpg',
     'images/history.jpg',
-    'images/IT.jpg',
     'images/math.jpg',
     'images/physics.jpg',
     'images/programming.jpg',

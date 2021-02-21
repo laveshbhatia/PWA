@@ -31,10 +31,10 @@ let lesson = [
 },
 {
          "id": 104,
-                    "subject": "IT",
+                    "subject": "Science",
                     "location": "Bath",
                     "price": 45,
-                    "image": "images/IT.jpg",
+                    "image": "images/science.jpg",
                     "spaces": 5,
                     "rating": 5,
                     "quantity": 5
