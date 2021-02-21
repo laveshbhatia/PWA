@@ -34,7 +34,7 @@ let lesson = [
                     "subject": "IT",
                     "location": "Bath",
                     "price": 45,
-                    "image": "images/it.jpg",
+                    "image": "images/IT.jpg",
                     "spaces": 5,
                     "rating": 5,
                     "quantity": 5
