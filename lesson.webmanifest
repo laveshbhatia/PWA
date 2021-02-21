@@ -1,0 +1,14 @@
+{
+    "name": "Book Classes PWA",
+    "shortname": "Book",
+    "description": "Online lesson store",
+    "icons":[
+        {
+            "src": "images/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url":"index.html",
+    "display": "fullscreen"
+}
